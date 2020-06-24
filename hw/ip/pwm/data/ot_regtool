@@ -1,0 +1,1 @@
+/wdc/proj/cto/top/work/${USER}/opentitan/util/regtool.py -r -t ../rtl pwm.hjson

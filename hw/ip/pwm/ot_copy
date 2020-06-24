@@ -1,0 +1,11 @@
+cp ./rtl/pwm.sv /wdc/proj/cto/top/work/${USER}/opentitan/hw/ip/pwm/rtl/.
+cp ./rtl/pwm_core.sv /wdc/proj/cto/top/work/${USER}/opentitan/hw/ip/pwm/rtl/.
+cp ./rtl/pwm_pkg.sv /wdc/proj/cto/top/work/${USER}/opentitan/hw/ip/pwm/rtl/.
+cp ./rtl/pwm_reg_pkg.sv /wdc/proj/cto/top/work/${USER}/opentitan/hw/ip/pwm/rtl/.
+cp ./rtl/pwm_reg_top.sv /wdc/proj/cto/top/work/${USER}/opentitan/hw/ip/pwm/rtl/.
+cp ./data/pwm.hjson /wdc/proj/cto/top/work/${USER}/opentitan/hw/ip/pwm/data/.
+cp ./pwm.core /wdc/proj/cto/top/work/${USER}/opentitan/hw/ip/pwm/.
+
+
+
+
